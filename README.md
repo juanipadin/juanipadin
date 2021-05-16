@@ -6,9 +6,5 @@
  
  <p> Always my career moved based on the needs of my clients. In this way, I began to apply JavaScript and React to the websites that I made. </p>
 
-- 🌱 I’m currently learning React and Angular.
-- 📫 You can reach me via mail: juanipadin@hotmail.com
-<!---
-juanipadin/juanipadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+You can reach me via mail: juanipadin@hotmail.com
